@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "io.github.yousabagent_debug.twa",
-    "sha256_cert_fingerprints": ["5C:BA:C2:21:8E:06:E7:EE:11:BA:2B:5F:50:80:8E:EA:88:40:DC:D7:BB:BC:AE:E2:BC:A3:BA:65:AD:5E:6A:2A"]
+    "sha256_cert_fingerprints": ["61:F9:F1:A0:5B:89:AE:26:8E:34:CD:0D:B3:CA:AD:05:85:93:B7:A6:D5:10:94:D5:56:D7:3E:30:3F:EF:18:2C"]
   }
 }]
