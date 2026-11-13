@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.yousabagent_debug.twa",
+    "sha256_cert_fingerprints": ["5C:BA:C2:21:8E:06:E7:EE:11:BA:2B:5F:50:80:8E:EA:88:40:DC:D7:BB:BC:AE:E2:BC:A3:BA:65:AD:5E:6A:2A"]
+  }
+}]
